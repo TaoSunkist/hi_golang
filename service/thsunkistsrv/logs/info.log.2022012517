@@ -1,0 +1,9 @@
+2022-01-25 17:00:33	INFO	logger/logger.go:81	thsunkistsrv Running
+2022-01-25 17:00:33	WARN	logger/logger.go:89	thsunkistsrv Running
+2022-01-25 17:00:33	ERROR	logger/logger.go:97	thsunkistsrv Running
+2022-01-25 17:02:30	INFO	logger/logger.go:81	thsunkistsrv Running
+2022-01-25 17:02:30	WARN	logger/logger.go:89	thsunkistsrv Running
+2022-01-25 17:02:30	ERROR	logger/logger.go:97	thsunkistsrv Running
+2022-01-25 17:03:03	INFO	logger/logger.go:81	thsunkistsrv Running
+2022-01-25 17:03:03	WARN	logger/logger.go:89	thsunkistsrv Running
+2022-01-25 17:03:03	ERROR	logger/logger.go:97	thsunkistsrv Running
